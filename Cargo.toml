@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "composite_ops",
+    "composite_ops_macro"
+]
